@@ -1,0 +1,15 @@
+{
+    "name": "Mandelbrot Set",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "description": "Mandelbrot Set extension for MS Edge.",
+    "icons": {
+        "16": "icons/base16x16.png",
+        "32": "icons/base32x32.png",
+        "48": "icons/base48x48.png",
+        "128": "icons/base128x128.png"
+    },
+    "action": {
+        "default_popup": "index.html"
+    }
+}
